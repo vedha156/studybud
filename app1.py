@@ -38,4 +38,3 @@ if st.button("📊 Predict My Weak Areas"):
         st.error("⚠️ Based on your data, you might struggle with certain topics. Consider focusing more on them!")
     else:
         st.success("✅ Great job! You seem to be on track with your studies!")
-*/
